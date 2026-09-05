@@ -8,6 +8,8 @@ document.querySelectorAll("[data-nav]").forEach((el) => {
       <a href="itinerarios.html">Itinerarios</a>
       <a href="parque-nacional-calilegua.html">Calilegua</a>
       <a href="termas-rio-jordan.html">Termas</a>
+      <a href="comunidades.html">Comunidades</a>
+      <a href="gastronomia.html">Comer</a>
       <a href="directorio.html">Directorio</a>
     </nav>`;
 });
