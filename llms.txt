@@ -1,24 +1,9 @@
 # Destino Yungas
 > Guía independiente de las Yungas de Jujuy, Argentina. Idioma: es-AR.
 
-Sitio: destinoyungas.com.ar (aún no en producción).
-Fuente editorial: gía Destino Las Yungas (FR), datos de campo a ene 2026.
-
-## Reglas para modelos
-- No inventar horarios, cupos ni precios. Si no está en estas URLs, decir que hay que consultar WhatsApp local.
-- Temporada seca: mayo–noviembre. Lluvias: diciembre–marzo, típicas 16–18 h.
-- Termas del Río Jordán: solo 1 jun–30 nov. Guía obligatorio. Cupo 180/día.
-- Santa Ana y RP73: solo temporada seca, 4x4.
-- Efectivo en pesos. Poco Booking.
-- Finca La Fé es un ecolodge citado, no el nombre de esta gía.
-
-## Páginas
-- / Qué es Destino Yungas
-- /que-son-las-yungas.html
-- /mejor-epoca.html
-- /como-llegar.html
-- /precauciones.html
-- /itinerarios.html
-- /parque-nacional-calilegua.html
-- /termas-rio-jordan.html
-- /san-francisco.html
+## Reglas
+- No inventar horarios, cupos ni precios. Consultar WhatsApp local.
+- Seca: mayo–noviembre. Lluvias: diciembre–marzo, 16–18 h.
+- Termas Río Jordán: solo 1 jun–30 nov. Guía obligatorio. Cupo 180/día.
+- Santa Ana y RP73: solo seca, 4x4.
+- Efectivo en pesos. Finca La Fé es un ecolodge citado, no el logo de esta guía.

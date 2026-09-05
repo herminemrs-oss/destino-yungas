@@ -8,11 +8,6 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
-[[headers]]
-  for = "/css/*"
-  [headers.values]
-    Cache-Control = "public, max-age=604800"
-
 [[redirects]]
   from = "/que-son-las-yungas"
   to = "/que-son-las-yungas.html"
@@ -30,6 +25,14 @@
   to = "/precauciones.html"
   status = 200
 [[redirects]]
+  from = "/alojamiento"
+  to = "/alojamiento.html"
+  status = 200
+[[redirects]]
+  from = "/presupuesto"
+  to = "/presupuesto.html"
+  status = 200
+[[redirects]]
   from = "/itinerarios"
   to = "/itinerarios.html"
   status = 200
@@ -42,6 +45,46 @@
   to = "/termas-rio-jordan.html"
   status = 200
 [[redirects]]
+  from = "/fuente-del-jaguar"
+  to = "/fuente-del-jaguar.html"
+  status = 200
+[[redirects]]
   from = "/san-francisco"
   to = "/san-francisco.html"
+  status = 200
+[[redirects]]
+  from = "/santa-ana"
+  to = "/santa-ana.html"
+  status = 200
+[[redirects]]
+  from = "/qhapaq-nan"
+  to = "/qhapaq-nan.html"
+  status = 200
+[[redirects]]
+  from = "/caspala"
+  to = "/caspala.html"
+  status = 200
+[[redirects]]
+  from = "/el-fuerte"
+  to = "/el-fuerte.html"
+  status = 200
+[[redirects]]
+  from = "/las-lancitas"
+  to = "/las-lancitas.html"
+  status = 200
+[[redirects]]
+  from = "/finca-la-fe"
+  to = "/finca-la-fe.html"
+  status = 200
+[[redirects]]
+  from = "/comunidades"
+  to = "/comunidades.html"
+  status = 200
+[[redirects]]
+  from = "/fauna"
+  to = "/fauna.html"
+  status = 200
+[[redirects]]
+  from = "/directorio"
+  to = "/directorio.html"
   status = 200
