@@ -1,0 +1,47 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[redirects]]
+  from = "/que-son-las-yungas"
+  to = "/que-son-las-yungas.html"
+  status = 200
+[[redirects]]
+  from = "/mejor-epoca"
+  to = "/mejor-epoca.html"
+  status = 200
+[[redirects]]
+  from = "/como-llegar"
+  to = "/como-llegar.html"
+  status = 200
+[[redirects]]
+  from = "/precauciones"
+  to = "/precauciones.html"
+  status = 200
+[[redirects]]
+  from = "/itinerarios"
+  to = "/itinerarios.html"
+  status = 200
+[[redirects]]
+  from = "/parque-nacional-calilegua"
+  to = "/parque-nacional-calilegua.html"
+  status = 200
+[[redirects]]
+  from = "/termas-rio-jordan"
+  to = "/termas-rio-jordan.html"
+  status = 200
+[[redirects]]
+  from = "/san-francisco"
+  to = "/san-francisco.html"
+  status = 200
